@@ -50,7 +50,7 @@ namespace Ficha10G1
 
             Console.WriteLine(sum);
         }
-        private static double ReadAndConvert()
+        public static double ReadAndConvert()
         {
             Console.WriteLine("Introduza um número");
             return double.Parse(Console.ReadLine());

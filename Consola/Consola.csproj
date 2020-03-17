@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -7,6 +7,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Ficha10G1\Ficha10G1.csproj" />
+    <ProjectReference Include="..\Ficha10G2\Ficha10G2.csproj" />
+    <ProjectReference Include="..\Ficha10G3\Ficha10G3.csproj" />
   </ItemGroup>
 
 </Project>
