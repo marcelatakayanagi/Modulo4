@@ -262,17 +262,17 @@ namespace Ficha10G1
             var total = p1 + p2 + p3 + p4 + p5;
             Console.WriteLine($"O valor total é {total} ");
         }
-        private static double RequestProductPriceQuantity()
+        public static double RequestProductPriceQuantity()
         {
             Console.WriteLine("Nome do produto");
             var product = Console.ReadLine();
             Console.WriteLine("Preço do Produto");
             var price = double.Parse(Console.ReadLine());
-            Console.WriteLine("Preço do Produto");
+            Console.WriteLine("Quantidade do Produto");
             var quantity = double.Parse(Console.ReadLine());
 
             var subtotal = price * quantity;
-            Console.WriteLine($"O produto {product} tem o valor de {subtotal} euros");
+            Console.WriteLine($"O produto {product} tem o valor de {subtotal} euros\n");
             return subtotal;
         }
         #endregion
