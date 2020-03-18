@@ -49,9 +49,6 @@ namespace Ficha10G2
             var tempK = temp + 273.15;
             return tempK;
         }
-         
-
-
         #endregion
-}
+    }
 }
