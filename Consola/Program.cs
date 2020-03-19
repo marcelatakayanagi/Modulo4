@@ -4,6 +4,7 @@ using Ficha10G3;
 using Ficha11G1;
 using Ficha11G2;
 using Ficha11G3;
+using Ficha12G1;
 using System;
 
 namespace Consola
@@ -57,6 +58,23 @@ namespace Consola
 
             //F11G3.Ex1();
             //F11G3.Ex2();
+
+            //F12G1.Ex1();
+            //F12G1.Ex2();
+            //F12G1.Ex3();
+            //F12G1.Ex4();
+            //F12G1.Ex5();
+            //F12G1.Ex6();
+            //F12G1.Ex7();
+            //F12G1.Ex8();
+            //F12G1.Ex9();
+            //F12G1.Ex10();
+            //F12G1.Ex11();
+            //F12G1.Ex12();
+            //F12G1.Ex13();
+            //F12G1.Ex14();
+            //F12G1.Ex15();
+            //F12G1.Ex16();
 
 
         }
