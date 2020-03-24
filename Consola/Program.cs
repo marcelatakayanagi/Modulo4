@@ -5,6 +5,7 @@ using Ficha11G1;
 using Ficha11G2;
 using Ficha11G3;
 using Ficha12G1;
+using Ficha13;
 using System;
 
 namespace Consola
@@ -76,6 +77,8 @@ namespace Consola
             //F12G1.Ex15();
             //F12G1.Ex16();
 
+
+            F13G1.Calculadora();
 
         }
     }
